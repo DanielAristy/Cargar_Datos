@@ -1,0 +1,55 @@
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe.config
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.pdb
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.Properties.Resources.resources
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.exe
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.pdb
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.Compilador.resources
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.CargaDatos.resources
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.TablaComponentes.resources
+C:\Users\Santiago\Desktop\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.TablaErrores.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe.config
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\bin\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.csprojAssemblyReference.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.Compilador.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.CargaDatos.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.Properties.Resources.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.TablaComponentes.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.TablaErrores.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.GenerateResource.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador-master\CompiladorNuevo\obj\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csprojAssemblyReference.cache
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Properties.Resources.resources
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.GenerateResource.cache
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe.config
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Form1.resources
+D:\Usuario\Daniel Aristy\CSharp\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.CoreCompileInputs.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe.config
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csprojAssemblyReference.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Form1.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Properties.Resources.resources
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.GenerateResource.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.CoreCompileInputs.cache
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\Proyectos C#\cargar_datos_compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe.config
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\bin\Debug\CompiladorNuevo.pdb
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csprojAssemblyReference.cache
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Form1.resources
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.Properties.Resources.resources
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.GenerateResource.cache
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.csproj.CoreCompileInputs.cache
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.exe
+D:\Usuario\Daniel Aristy\CSharp\Compilador\cargar_datos_compilador\CompiladorNuevo\obj\Debug\CompiladorNuevo.pdb
